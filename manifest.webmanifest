@@ -1,0 +1,19 @@
+{
+    "name": "livealps - Near real-time satellite images of the Alps",
+    "short_name": "livealps",
+    "icons": [
+        {
+            "src": "favicon192.png?",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon512.png?",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#198cbd",
+    "background_color": "#198cbd",
+    "display": "standalone"
+}
