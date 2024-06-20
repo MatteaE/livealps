@@ -1,13 +1,11 @@
-Started at 2024-06-19 17:24:00 +0200
+Started at 2024-06-20 05:30:22 +0200
 Reading locations file...
 Processing Sentinel-2...
 1 tiles to examine...
 Checking Sentinel-2 tile 1 of 1... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Writing Sentinel-2 tile info file...
 Processing Landsat 8/9...
-Looking for Landsat scenes covering bishorn... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
-Looking for Landsat scenes covering bruennlital... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
-Finished at 2024-06-19 17:25:28 +0200
+Looking for Landsat scenes covering bishorn... 12 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering bruennlital... 23 scene(s) found, including uninteresting ones... 0 excluding them.
+Finished at 2024-06-20 05:31:21 +0200
