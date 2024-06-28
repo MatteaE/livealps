@@ -69,7 +69,7 @@ function prev() {
 }
 
 
-function toggle_contours() {
+function toggle_topomap() {
     if (img_v == "v3") {
         img_v = "v4"
     } else {
