@@ -1,4 +1,4 @@
-Started at 2024-06-28 21:32:37 +0200
+Started at 2024-06-28 21:42:45 +0200
 Reading locations file...
 Processing Sentinel-2...
 7 tiles to examine...
@@ -26,46 +26,28 @@ Looking for Landsat scenes covering rocciamelone... 33 scene(s) found, including
 Looking for Landsat scenes covering schilthorn... 33 scene(s) found, including uninteresting ones... 1 excluding them.
 Looking for Landsat scenes covering tresignori... 16 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering valbondione... 16 scene(s) found, including uninteresting ones... 0 excluding them.
-No new Landsat scenes to process.
+
+We have 3 unique scenes to download and process.
+
+Working on LC91950282024179LGN00 (1/3)...
+Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- DoneDownload completed.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+
+Working on LC81960282024178LGN00 (2/3)...
+Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- DoneDownload completed.
+Location and scene EPSG do not match. I am reprojecting the location EPSG.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+
+Working on LC91950292024179LGN00 (3/3)...
+Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- DoneDownload completed.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 Writing Landsat 8/9 tile info file...
-Finished at 2024-06-28 21:33:00 +0200
-ng Landsat 8/9 tile info file...
-Finished at 2024-06-28 21:33:00 +0200
-# A tibble: 186 × 3
-   file                                     status   staged
-   <chr>                                    <chr>    <lgl> 
- 1 imagery/bernina/v1/2024-06-24_s2.tif     modified TRUE  
- 2 imagery/bernina/v2/2024-06-24_s2_pan.tif modified TRUE  
- 3 imagery/bernina/v3/2024-06-24_s2.jpg     modified TRUE  
- 4 imagery/bernina/v4/2024-06-24_s2.jpg     modified TRUE  
- 5 imagery/bishorn/v1/2024-06-22_s2.tif     modified TRUE  
- 6 imagery/bishorn/v1/2024-06-24_s2.tif     modified TRUE  
- 7 imagery/bishorn/v1/2024-06-27_ls.tif     modified TRUE  
- 8 imagery/bishorn/v1/2024-06-27_s2.tif     modified TRUE  
- 9 imagery/bishorn/v2/2024-06-22_s2_pan.tif modified TRUE  
-10 imagery/bishorn/v2/2024-06-24_s2_pan.tif modified TRUE  
-# ℹ 176 more rows
-# ℹ Use `print(n = ...)` to see more rows
-[1] "479bd4147abc43d36c76d8d4d89d9a558b4a9e89"
-# A tibble: 18 × 3
-   file                      status   staged
-   <chr>                     <chr>    <lgl> 
- 1 index.html                modified TRUE  
- 2 run_log_latest.txt        modified TRUE  
- 3 website/bernina.html      modified TRUE  
- 4 website/bishorn.html      modified TRUE  
- 5 website/bruennlital.html  modified TRUE  
- 6 website/granparadiso.html modified TRUE  
- 7 website/lagginhorn.html   modified TRUE  
- 8 website/matterhorn.html   modified TRUE  
- 9 website/montblanc.html    modified TRUE  
-10 website/monterosa.html    modified TRUE  
-11 website/monviso.html      modified TRUE  
-12 website/murtel.html       modified TRUE  
-13 website/pelmo.html        modified TRUE  
-14 website/rocciamelone.html modified TRUE  
-15 website/schilthorn.html   modified TRUE  
-16 website/script_generic.js modified TRUE  
-17 website/tresignori.html   modified TRUE  
-18 website/valbondione.html  modified TRUE  
-[1] "65ee4f4d5f6cf37b248a205d1f5d9edb0dee9d36"
+Finished at 2024-06-28 21:52:27 +0200
