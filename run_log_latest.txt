@@ -47,3 +47,25 @@ Finished at 2024-06-28 21:33:00 +0200
 # ℹ 176 more rows
 # ℹ Use `print(n = ...)` to see more rows
 [1] "479bd4147abc43d36c76d8d4d89d9a558b4a9e89"
+# A tibble: 18 × 3
+   file                      status   staged
+   <chr>                     <chr>    <lgl> 
+ 1 index.html                modified TRUE  
+ 2 run_log_latest.txt        modified TRUE  
+ 3 website/bernina.html      modified TRUE  
+ 4 website/bishorn.html      modified TRUE  
+ 5 website/bruennlital.html  modified TRUE  
+ 6 website/granparadiso.html modified TRUE  
+ 7 website/lagginhorn.html   modified TRUE  
+ 8 website/matterhorn.html   modified TRUE  
+ 9 website/montblanc.html    modified TRUE  
+10 website/monterosa.html    modified TRUE  
+11 website/monviso.html      modified TRUE  
+12 website/murtel.html       modified TRUE  
+13 website/pelmo.html        modified TRUE  
+14 website/rocciamelone.html modified TRUE  
+15 website/schilthorn.html   modified TRUE  
+16 website/script_generic.js modified TRUE  
+17 website/tresignori.html   modified TRUE  
+18 website/valbondione.html  modified TRUE  
+[1] "65ee4f4d5f6cf37b248a205d1f5d9edb0dee9d36"
