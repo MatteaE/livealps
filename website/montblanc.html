@@ -18,7 +18,6 @@
 </head>
 <body>
 
-    <button onclick="toggle_topomap()" class="text-sansserif">Toggle topo map</button>
     <form id="geotiff16_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/montblanc/v1/2024-06-27_s2.tif" method="get">
         <button class="text-sansserif">Download 16-bit RGB Geotiff</button>
     </form>
@@ -32,6 +31,8 @@
     
     <p>
     <div id="img_title" class="text-sansserif"><b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;27 June 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b></div>
+    <div><i>Click image to toggle topographic map</i></div>
+	  </p>
 
     <p>
       <button id="btn_prev" onclick="prev()" class="text-sansserif">Older image</button>
@@ -39,7 +40,7 @@
     </p>
 
     <p>
-    <img src="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/montblanc/v3/2024-06-27_s2.jpg" alt="" style="width:467px;">
+    <img src="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/montblanc/v3/2024-06-27_s2.jpg" alt="" style="width:467px;" onclick="toggle_topomap()">
     </p>
     
     <p class="text-sansserif">
