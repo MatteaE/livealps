@@ -1,4 +1,4 @@
-Started at 2024-07-01 23:52:59 +0200
+Started at 2024-07-02 13:20:20 +0200
 Reading locations file...
 Processing Sentinel-2...
 8 tiles to examine...
@@ -8,45 +8,19 @@ Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking Sentinel-2 tile 2 of 8... Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
+Checking Sentinel-2 tile 2 of 8... No new scenes found. Moving on...
 Checking Sentinel-2 tile 3 of 8... Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
+Checking for data... Nope. Moving to the next location...
+Checking for data... Nope. Moving to the next location...
+Checking for data... Nope. Moving to the next location...
+Checking for data... Nope. Moving to the next location...
+Checking for data... Nope. Moving to the next location...
+Checking for data... Nope. Moving to the next location...
 Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
@@ -65,6 +39,24 @@ Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
+Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
+Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
+Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
+Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
+Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
+Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
+Checking for data... Nope. Moving to the next location...
+Checking for data... Nope. Moving to the next location...
+Checking for data... Nope. Moving to the next location...
+Checking for data... Nope. Moving to the next location...
+Checking for data... Nope. Moving to the next location...
+Checking for data... Nope. Moving to the next location...
+Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
+Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
+Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
+Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
+Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
+Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
@@ -83,104 +75,62 @@ Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking Sentinel-2 tile 4 of 8... Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
-Checking Sentinel-2 tile 5 of 8... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking Sentinel-2 tile 6 of 8... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking Sentinel-2 tile 7 of 8... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Nope. Moving to the next location...
-Checking Sentinel-2 tile 8 of 8... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Nope. Moving to the next location...
 Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
 Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Nope. Moving to the next location...
+Checking Sentinel-2 tile 4 of 8... No new scenes found. Moving on...
+Checking Sentinel-2 tile 5 of 8... No new scenes found. Moving on...
+Checking Sentinel-2 tile 6 of 8... No new scenes found. Moving on...
+Checking Sentinel-2 tile 7 of 8... No new scenes found. Moving on...
+Checking Sentinel-2 tile 8 of 8... No new scenes found. Moving on...
 Writing Sentinel-2 tile info file...
 Processing Landsat 8/9...
-Looking for Landsat scenes covering adamello... 50 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering aigtour... 58 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering altels... 107 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering bernina... 99 scene(s) found, including uninteresting ones... 3 excluding them.
-Looking for Landsat scenes covering bishorn... 56 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering bruennlital... 108 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering cengalo... 52 scene(s) found, including uninteresting ones... 3 excluding them.
-Looking for Landsat scenes covering cevedale... 94 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering disgrazia... 52 scene(s) found, including uninteresting ones... 3 excluding them.
-Looking for Landsat scenes covering forni... 94 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering grandcombin... 56 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering grandesjorasses... 58 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering granparadiso... 109 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering jungfrau... 111 scene(s) found, including uninteresting ones... 4 excluding them.
-Looking for Landsat scenes covering lagginhorn... 56 scene(s) found, including uninteresting ones... 4 excluding them.
-Looking for Landsat scenes covering matterhorn... 56 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering montblanc... 58 scene(s) found, including uninteresting ones... 4 excluding them.
-Looking for Landsat scenes covering monterosa... 56 scene(s) found, including uninteresting ones... 4 excluding them.
-Looking for Landsat scenes covering monviso... 55 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering murtel... 100 scene(s) found, including uninteresting ones... 3 excluding them.
-Looking for Landsat scenes covering pelmo... 89 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering rocciamelone... 109 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering rutor... 109 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering saasfee... 56 scene(s) found, including uninteresting ones... 4 excluding them.
-Looking for Landsat scenes covering schilthorn... 111 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering simplon... 56 scene(s) found, including uninteresting ones... 4 excluding them.
-Looking for Landsat scenes covering tresignori... 52 scene(s) found, including uninteresting ones... 3 excluding them.
-Looking for Landsat scenes covering valbondione... 52 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering adamello... 72 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering aigtour... 83 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering altels... 153 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering bernina... 142 scene(s) found, including uninteresting ones... 6 excluding them.
+Looking for Landsat scenes covering bishorn... 81 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering bruennlital... 154 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering cengalo... 75 scene(s) found, including uninteresting ones... 6 excluding them.
+Looking for Landsat scenes covering cevedale... 133 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering disgrazia... 75 scene(s) found, including uninteresting ones... 6 excluding them.
+Looking for Landsat scenes covering forni... 134 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering grandcombin... 81 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering grandesjorasses... 83 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering granparadiso... 159 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering jungfrau... 159 scene(s) found, including uninteresting ones... 6 excluding them.
+Looking for Landsat scenes covering lagginhorn... 81 scene(s) found, including uninteresting ones... 6 excluding them.
+Looking for Landsat scenes covering matterhorn... 81 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering montblanc... 83 scene(s) found, including uninteresting ones... 5 excluding them.
+Looking for Landsat scenes covering monterosa... 81 scene(s) found, including uninteresting ones... 6 excluding them.
+Looking for Landsat scenes covering monviso... 81 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering murtel... 143 scene(s) found, including uninteresting ones... 6 excluding them.
+Looking for Landsat scenes covering pelmo... 124 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering rocciamelone... 159 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering rutor... 159 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering saasfee... 81 scene(s) found, including uninteresting ones... 6 excluding them.
+Looking for Landsat scenes covering schilthorn... 159 scene(s) found, including uninteresting ones... 3 excluding them.
+Looking for Landsat scenes covering simplon... 81 scene(s) found, including uninteresting ones... 6 excluding them.
+Looking for Landsat scenes covering tresignori... 75 scene(s) found, including uninteresting ones... 6 excluding them.
+Looking for Landsat scenes covering valbondione... 75 scene(s) found, including uninteresting ones... 6 excluding them.
 
 We have 8 unique scenes to download and process.
 
-Working on LC81930282024173LGN00 (1/8)...
+Working on LC91930282024181LGN00 (1/8)...
+WARNING: individual band files are not yet available for this scene. Giving up DDS download for now...
+WARNING: download failed. Cleaning up and giving up for now...
+Giving up on the whole scene for this time...
+
+Working on LC81930282024173LGN00 (2/8)...
 Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
@@ -192,7 +142,7 @@ Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 
-Working on LC81950282024171LGN01 (2/8)...
+Working on LC91930282024165LGN00 (3/8)...
 Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
@@ -203,15 +153,8 @@ Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 
-Working on LC91940282024172LGN01 (3/8)...
+Working on LC81940282024180LGN00 (4/8)...
 Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
@@ -225,18 +168,31 @@ Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 
-Working on LC81960282024178LGN00 (4/8)...
+Working on LC91940282024172LGN01 (5/8)...
 Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
-Location and scene EPSG do not match. I am reprojecting the location EPSG.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 
-Working on LC91960282024170LGN00 (5/8)...
+Working on LC81940282024164LGN00 (6/8)...
 Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
-Location and scene EPSG do not match. I am reprojecting the location EPSG.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-
-Working on LC81950292024171LGN01 (6/8)...
-Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 
@@ -245,203 +201,8 @@ WARNING: individual band files are not yet available for this scene. Giving up D
 WARNING: download failed. Cleaning up and giving up for now...
 Giving up on the whole scene for this time...
 
-Working on LC91920282024174LGN00 (8/8)...
+Working on LC81920282024166LGN00 (8/8)...
 Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
 Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 Writing Landsat 8/9 tile info file...
-Finished at 2024-07-02 00:38:15 +0200
-or data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking Sentinel-2 tile 4 of 8... Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking Sentinel-2 tile 5 of 8... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking Sentinel-2 tile 6 of 8... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking Sentinel-2 tile 7 of 8... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Nope. Moving to the next location...
-Checking Sentinel-2 tile 8 of 8... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Nope. Moving to the next location...
-Writing Sentinel-2 tile info file...
-Processing Landsat 8/9...
-Looking for Landsat scenes covering adamello... 50 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering aigtour... 58 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering altels... 107 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering bernina... 99 scene(s) found, including uninteresting ones... 3 excluding them.
-Looking for Landsat scenes covering bishorn... 56 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering bruennlital... 108 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering cengalo... 52 scene(s) found, including uninteresting ones... 3 excluding them.
-Looking for Landsat scenes covering cevedale... 94 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering disgrazia... 52 scene(s) found, including uninteresting ones... 3 excluding them.
-Looking for Landsat scenes covering forni... 94 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering grandcombin... 56 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering grandesjorasses... 58 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering granparadiso... 109 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering jungfrau... 111 scene(s) found, including uninteresting ones... 4 excluding them.
-Looking for Landsat scenes covering lagginhorn... 56 scene(s) found, including uninteresting ones... 4 excluding them.
-Looking for Landsat scenes covering matterhorn... 56 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering montblanc... 58 scene(s) found, including uninteresting ones... 4 excluding them.
-Looking for Landsat scenes covering monterosa... 56 scene(s) found, including uninteresting ones... 4 excluding them.
-Looking for Landsat scenes covering monviso... 55 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering murtel... 100 scene(s) found, including uninteresting ones... 3 excluding them.
-Looking for Landsat scenes covering pelmo... 89 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering rocciamelone... 109 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering rutor... 109 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering saasfee... 56 scene(s) found, including uninteresting ones... 4 excluding them.
-Looking for Landsat scenes covering schilthorn... 111 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering simplon... 56 scene(s) found, including uninteresting ones... 4 excluding them.
-Looking for Landsat scenes covering tresignori... 52 scene(s) found, including uninteresting ones... 3 excluding them.
-Looking for Landsat scenes covering valbondione... 52 scene(s) found, including uninteresting ones... 3 excluding them.
-
-We have 8 unique scenes to download and process.
-
-Working on LC81930282024173LGN00 (1/8)...
-Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-
-Working on LC81950282024171LGN01 (2/8)...
-Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-
-Working on LC91940282024172LGN01 (3/8)...
-Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-
-Working on LC81960282024178LGN00 (4/8)...
-Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
-Location and scene EPSG do not match. I am reprojecting the location EPSG.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-
-Working on LC91960282024170LGN00 (5/8)...
-Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
-Location and scene EPSG do not match. I am reprojecting the location EPSG.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-
-Working on LC81950292024171LGN01 (6/8)...
-Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-
-Working on LC81920282024182LGN00 (7/8)...
-WARNING: individual band files are not yet available for this scene. Giving up DDS download for now...
-WARNING: download failed. Cleaning up and giving up for now...
-Giving up on the whole scene for this time...
-
-Working on LC91920282024174LGN00 (8/8)...
-Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Writing Landsat 8/9 tile info file...
-Finished at 2024-07-02 00:38:15 +0200
+Finished at 2024-07-02 13:46:15 +0200
