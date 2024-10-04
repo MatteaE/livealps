@@ -18,10 +18,10 @@
 </head>
 <body>
 
-    <form id="geotiff16_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/bernina/v1/2024-10-02_s2.tif" method="get">
+    <form id="geotiff16_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/bernina/v1/2024-10-03_ls.tif" method="get">
         <button class="text-sansserif">Download 16-bit RGB Geotiff</button>
     </form>
-    <form id="geotiff8_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/bernina/v2/2024-10-02_s2_pan.tif" method="get">
+    <form id="geotiff8_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/bernina/v2/2024-10-03_ls_pan.tif" method="get">
         <button class="text-sansserif">Download 8-bit grayscale Geotiff</button>
     </form>
     <form id="back_to_homepage" style="display:inline" action="../index.html" method="get">
@@ -30,7 +30,7 @@
 
     
     <p></p>
-    <div id="img_title" class="text-sansserif"><b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;02 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b></div>
+    <div id="img_title" class="text-sansserif"><b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;03 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b></div>
     <div><i>Click image to toggle topographic map</i></div>
 
     <p>
@@ -39,7 +39,7 @@
     </p>
 
     <p>
-    <img src="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/bernina/v3/2024-10-02_s2.jpg" alt="" style="width:467px;" onclick="toggle_topomap()">
+    <img src="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/bernina/v3/2024-10-03_ls.jpg" alt="" style="width:467px;" onclick="toggle_topomap()">
     </p>
     
     <p class="text-sansserif">
@@ -48,8 +48,8 @@
 
     <script>
         var img_basedir = "https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/bernina"
-        var img_names = ["2024-09-02_s2.jpg", "2024-09-07_s2.jpg", "2024-09-08_ls.jpg", "2024-09-09_ls.jpg", "2024-09-12_s2.jpg", "2024-09-16_ls.jpg", "2024-09-17_ls.jpg", "2024-09-17_s2.jpg", "2024-09-22_s2.jpg", "2024-09-24_ls.jpg", "2024-09-25_ls.jpg", "2024-09-27_s2.jpg", "2024-10-02_ls.jpg", "2024-10-02_s2.jpg"]
-        var img_titles = ["<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;02 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;07 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;08 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;09 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;12 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;16 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;17 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;17 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;22 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;24 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;25 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;27 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;02 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;02 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>"]
+        var img_names = ["2024-09-07_s2.jpg", "2024-09-08_ls.jpg", "2024-09-09_ls.jpg", "2024-09-12_s2.jpg", "2024-09-16_ls.jpg", "2024-09-17_ls.jpg", "2024-09-17_s2.jpg", "2024-09-22_s2.jpg", "2024-09-24_ls.jpg", "2024-09-25_ls.jpg", "2024-09-27_s2.jpg", "2024-10-02_ls.jpg", "2024-10-02_s2.jpg", "2024-10-03_ls.jpg"]
+        var img_titles = ["<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;07 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;08 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;09 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;12 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;16 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;17 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;17 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;22 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;24 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;25 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;27 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;02 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;02 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Bernina (CH/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;03 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>"]
     </script>
     <script src="script_generic.js"></script>
 	
