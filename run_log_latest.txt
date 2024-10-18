@@ -1,81 +1,101 @@
-Started at 2024-10-17 17:30:21 +0200
+Started at 2024-10-18 05:30:21 +0200
 Reading locations file...
 Processing Sentinel-2...
 8 tiles to examine...
-Checking Sentinel-2 tile 1 of 8... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking Sentinel-2 tile 2 of 8... Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking Sentinel-2 tile 3 of 8... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking Sentinel-2 tile 4 of 8... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking Sentinel-2 tile 5 of 8... Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking for data... Nope. Moving to the next location...
-Checking Sentinel-2 tile 6 of 8... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking Sentinel-2 tile 7 of 8... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking Sentinel-2 tile 8 of 8... Checking for data... Nope. Moving to the next location...
+Checking Sentinel-2 tile 1 of 8... No new scenes found. Moving on...
+Checking Sentinel-2 tile 2 of 8... No new scenes found. Moving on...
+Checking Sentinel-2 tile 3 of 8... No new scenes found. Moving on...
+Checking Sentinel-2 tile 4 of 8... No new scenes found. Moving on...
+Checking Sentinel-2 tile 5 of 8... No new scenes found. Moving on...
+Checking Sentinel-2 tile 6 of 8... No new scenes found. Moving on...
+Checking Sentinel-2 tile 7 of 8... No new scenes found. Moving on...
+Checking Sentinel-2 tile 8 of 8... No new scenes found. Moving on...
 Writing Sentinel-2 tile info file...
 Processing Landsat 8/9...
-Looking for Landsat scenes covering adamello... 17 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering aigtour... 18 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering aletsch... 33 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering altels... 33 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering bernina... 32 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering bishorn... 17 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering bruennlital... 33 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering cengalo... 17 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering cevedale... 31 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering disgrazia... 17 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering fiescher... 33 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering forni... 31 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering grandcombin... 17 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering grandesjorasses... 18 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering granparadiso... 34 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering gries... 33 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering jungfrau... 33 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering lagginhorn... 17 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering matterhorn... 17 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering montblanc... 18 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering monterosa... 17 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering monviso... 17 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering murtel... 33 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering otemma... 17 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering pelmo... 29 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering plainemorte... 33 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering rhone... 33 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering rocciamelone... 34 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering rutor... 34 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering saasfee... 17 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering schilthorn... 33 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering simplon... 17 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering tresignori... 17 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering tsanfleuron... 18 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering unteraar... 33 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering valbondione... 17 scene(s) found, including uninteresting ones... 0 excluding them.
-No new Landsat scenes to process.
+Looking for Landsat scenes covering adamello... 14 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering aigtour... 16 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering aletsch... 30 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering altels... 30 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering bernina... 27 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering bishorn... 15 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering bruennlital... 30 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering cengalo... 14 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering cevedale... 27 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering disgrazia... 14 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering fiescher... 30 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering forni... 27 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering grandcombin... 15 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering grandesjorasses... 16 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering granparadiso... 29 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering gries... 30 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering jungfrau... 30 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering lagginhorn... 15 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering matterhorn... 15 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering montblanc... 16 scene(s) found, including uninteresting ones... 2 excluding them.
+Looking for Landsat scenes covering monterosa... 15 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering monviso... 15 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering murtel... 28 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering otemma... 15 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering pelmo... 25 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering plainemorte... 30 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering rhone... 30 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering rocciamelone... 30 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering rutor... 29 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering saasfee... 15 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering schilthorn... 30 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering simplon... 15 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering tresignori... 14 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering tsanfleuron... 16 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering unteraar... 30 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering valbondione... 14 scene(s) found, including uninteresting ones... 0 excluding them.
+
+We have 2 unique scenes to download and process.
+
+Working on LC91950282024291LGN00 (1/2)...
+Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+
+Working on LC91950292024291LGN00 (2/2)...
+Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
 Writing Landsat 8/9 tile info file...
-Finished at 2024-10-17 17:39:51 +0200
+Removing 1 aletsch image(s) older than 31 days...
+Removing 1 bernina image(s) older than 31 days...
+Removing 1 cengalo image(s) older than 31 days...
+Removing 1 disgrazia image(s) older than 31 days...
+Removing 1 fiescher image(s) older than 31 days...
+Removing 1 gries image(s) older than 31 days...
+Removing 1 jungfrau image(s) older than 31 days...
+Removing 1 lagginhorn image(s) older than 31 days...
+Removing 1 monterosa image(s) older than 31 days...
+Removing 1 murtel image(s) older than 31 days...
+Removing 1 rhone image(s) older than 31 days...
+Removing 1 saasfee image(s) older than 31 days...
+Removing 1 simplon image(s) older than 31 days...
+Removing 1 tresignori image(s) older than 31 days...
+Removing 1 unteraar image(s) older than 31 days...
+Removing 1 valbondione image(s) older than 31 days...
+Finished at 2024-10-18 05:37:14 +0200
