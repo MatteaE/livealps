@@ -18,10 +18,10 @@
 </head>
 <body>
 
-    <form id="geotiff16_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/montblanc/v1/2024-10-20_s2.tif" method="get">
+    <form id="geotiff16_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/montblanc/v1/2024-10-25_s2.tif" method="get">
         <button class="text-sansserif">Download 16-bit RGB Geotiff</button>
     </form>
-    <form id="geotiff8_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/montblanc/v2/2024-10-20_s2_pan.tif" method="get">
+    <form id="geotiff8_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/montblanc/v2/2024-10-25_s2_pan.tif" method="get">
         <button class="text-sansserif">Download 8-bit grayscale Geotiff</button>
     </form>
     <form id="back_to_homepage" style="display:inline" action="../index.html" method="get">
@@ -30,7 +30,7 @@
 
     
     <p></p>
-    <div id="img_title" class="text-sansserif"><b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;20 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b></div>
+    <div id="img_title" class="text-sansserif"><b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;25 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b></div>
     <div><i>Click image to toggle topographic map</i></div>
 
     <p>
@@ -39,7 +39,7 @@
     </p>
 
     <p>
-    <img src="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/montblanc/v3/2024-10-20_s2.jpg" alt="" style="width:747px;" onclick="toggle_topomap()">
+    <img src="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/montblanc/v3/2024-10-25_s2.jpg" alt="" style="width:747px;" onclick="toggle_topomap()">
     </p>
     
     <p class="text-sansserif">
@@ -48,8 +48,8 @@
 
     <script>
         var img_basedir = "https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/montblanc"
-        var img_names = ["2024-09-25_s2.jpg", "2024-09-30_ls.jpg", "2024-09-30_s2.jpg", "2024-10-01_ls.jpg", "2024-10-05_s2.jpg", "2024-10-08_ls.jpg", "2024-10-09_ls.jpg", "2024-10-10_s2.jpg", "2024-10-15_s2.jpg", "2024-10-16_ls.jpg", "2024-10-17_ls.jpg", "2024-10-20_s2.jpg"]
-        var img_titles = ["<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;25 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;30 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;30 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;01 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;05 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;08 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;09 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;10 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;15 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;16 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;17 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;20 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>"]
+        var img_names = ["2024-09-25_s2.jpg", "2024-09-30_ls.jpg", "2024-09-30_s2.jpg", "2024-10-01_ls.jpg", "2024-10-05_s2.jpg", "2024-10-08_ls.jpg", "2024-10-09_ls.jpg", "2024-10-10_s2.jpg", "2024-10-15_s2.jpg", "2024-10-16_ls.jpg", "2024-10-17_ls.jpg", "2024-10-20_s2.jpg", "2024-10-25_ls.jpg", "2024-10-25_s2.jpg"]
+        var img_titles = ["<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;25 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;30 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;30 September 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;01 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;05 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;08 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;09 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;10 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;15 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;16 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;17 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;20 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;25 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Mont Blanc (FR/IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;25 October 2024&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>"]
     </script>
     <script src="script_generic.js"></script>
 	
