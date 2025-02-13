@@ -1,4 +1,4 @@
-Started at 2025-02-13 05:30:26 +0100
+Started at 2025-02-13 17:30:21 +0100
 Reading locations file...
 Processing Sentinel-2...
 8 tiles to examine...
@@ -7,12 +7,9 @@ Checking Sentinel-2 tile 2 of 8... No new scenes found. Moving on...
 Checking Sentinel-2 tile 3 of 8... No new scenes found. Moving on...
 Checking Sentinel-2 tile 4 of 8... No new scenes found. Moving on...
 Checking Sentinel-2 tile 5 of 8... No new scenes found. Moving on...
-Checking Sentinel-2 tile 6 of 8... 
-
-WARNING: I could not find any of the three RGB bands in S2B_MSIL1C_20250212T103049_N0511_R108_T32TMR_20250212T122559 -- I have to skip that scene, something is wrong on the Copernicus Dataspace
-
-Checking Sentinel-2 tile 7 of 8... Checking for data... Yes! Processing... v1... v2... v3... v4... Done.
-Checking Sentinel-2 tile 8 of 8... No new scenes found. Moving on...
+Checking Sentinel-2 tile 6 of 8... No new scenes found. Moving on...
+Checking Sentinel-2 tile 7 of 8... No new scenes found. Moving on...
+Checking Sentinel-2 tile 8 of 8... Checking for data... Nope. Moving to the next location...
 Writing Sentinel-2 tile info file...
 Processing Landsat 8/9...
 Looking for Landsat scenes covering adamello... 12 scene(s) found, including uninteresting ones... 0 excluding them.
@@ -29,33 +26,28 @@ Looking for Landsat scenes covering fiescher... 24 scene(s) found, including uni
 Looking for Landsat scenes covering forni... 24 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering grandcombin... 12 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering grandesjorasses... 12 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering granparadiso... 24 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering granparadiso... 25 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering gries... 24 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering jungfrau... 24 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering lagginhorn... 12 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering matterhorn... 12 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering montblanc... 12 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering monterosa... 12 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering monviso... 12 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering monviso... 13 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering murtel... 24 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering otemma... 12 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering pelmo... 24 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering plainemorte... 24 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering rhone... 24 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering rocciamelone... 24 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering rutor... 24 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering pelmo... 25 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering plainemorte... 25 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering rhone... 25 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering rocciamelone... 25 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering rutor... 25 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering saasfee... 12 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering schilthorn... 24 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering schilthorn... 25 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering simplon... 12 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering tresignori... 12 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering tsanfleuron... 12 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering unteraar... 24 scene(s) found, including uninteresting ones... 0 excluding them.
-Looking for Landsat scenes covering valbondione... 12 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering tresignori... 13 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering tsanfleuron... 13 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering unteraar... 26 scene(s) found, including uninteresting ones... 0 excluding them.
+Looking for Landsat scenes covering valbondione... 13 scene(s) found, including uninteresting ones... 0 excluding them.
 No new Landsat scenes to process.
 Writing Landsat 8/9 tile info file...
-Removing 1 adamello image(s) older than 31 days...
-Removing 1 cevedale image(s) older than 31 days...
-Removing 1 forni image(s) older than 31 days...
-Removing 1 montblanc image(s) older than 31 days...
-Removing 1 pelmo image(s) older than 31 days...
-Finished at 2025-02-13 05:35:21 +0100
+Finished at 2025-02-13 17:33:22 +0100
