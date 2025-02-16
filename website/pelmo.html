@@ -18,10 +18,10 @@
 </head>
 <body>
 
-    <form id="geotiff16_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/pelmo/v1/2025-02-09_ls.tif" method="get">
+    <form id="geotiff16_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/pelmo/v1/2025-02-16_s2.tif" method="get">
         <button class="text-sansserif">Download 16-bit RGB Geotiff</button>
     </form>
-    <form id="geotiff8_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/pelmo/v2/2025-02-09_ls_pan.tif" method="get">
+    <form id="geotiff8_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/pelmo/v2/2025-02-16_s2_pan.tif" method="get">
         <button class="text-sansserif">Download 8-bit grayscale Geotiff</button>
     </form>
     <form id="back_to_homepage" style="display:inline" action="../index.html" method="get">
@@ -30,7 +30,7 @@
 
     
     <p></p>
-    <div id="img_title" class="text-sansserif"><b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;09 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b></div>
+    <div id="img_title" class="text-sansserif"><b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;16 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b></div>
     <div><i>Click image to toggle topographic map</i></div>
 
     <p>
@@ -39,7 +39,7 @@
     </p>
 
     <p>
-    <img src="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/pelmo/v3/2025-02-09_ls.jpg" alt="" style="width:612px;" onclick="toggle_topomap()">
+    <img src="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/pelmo/v3/2025-02-16_s2.jpg" alt="" style="width:612px;" onclick="toggle_topomap()">
     </p>
     
     <p class="text-sansserif">
@@ -48,8 +48,8 @@
 
     <script>
         var img_basedir = "https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/pelmo"
-        var img_names = ["2025-01-16_ls.jpg", "2025-01-17_s2.jpg", "2025-01-24_ls.jpg", "2025-01-27_s2.jpg", "2025-02-01_ls.jpg", "2025-02-01_s2.jpg", "2025-02-06_s2.jpg", "2025-02-09_ls.jpg"]
-        var img_titles = ["<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;16 January 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;17 January 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;24 January 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;27 January 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;01 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;01 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;06 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;09 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>"]
+        var img_names = ["2025-01-16_ls.jpg", "2025-01-17_s2.jpg", "2025-01-24_ls.jpg", "2025-01-27_s2.jpg", "2025-02-01_ls.jpg", "2025-02-01_s2.jpg", "2025-02-06_s2.jpg", "2025-02-09_ls.jpg", "2025-02-16_s2.jpg"]
+        var img_titles = ["<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;16 January 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;17 January 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;24 January 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;27 January 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;01 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;01 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;06 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;09 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Pelmo (IT)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;16 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>"]
     </script>
     <script src="script_generic.js"></script>
 	
