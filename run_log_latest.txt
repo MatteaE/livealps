@@ -1,4 +1,4 @@
-Started at 2025-02-17 05:30:20 +0100
+Started at 2025-02-17 12:51:00 +0100
 Reading locations file...
 Processing Sentinel-2...
 8 tiles to examine...
@@ -48,20 +48,6 @@ Looking for Landsat scenes covering tresignori... 13 scene(s) found, including u
 Looking for Landsat scenes covering tsanfleuron... 15 scene(s) found, including uninteresting ones... 1 excluding them.
 Looking for Landsat scenes covering unteraar... 29 scene(s) found, including uninteresting ones... 2 excluding them.
 Looking for Landsat scenes covering valbondione... 13 scene(s) found, including uninteresting ones... 2 excluding them.
-
-We have 1 unique scenes to download and process.
-
-Working on LC81930282025047LGN00 (1/1)...
-Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v2... v3... v4... Done.
+No new Landsat scenes to process.
 Writing Landsat 8/9 tile info file...
-Removing 1 pelmo image(s) older than 31 days...
-Finished at 2025-02-17 05:36:32 +0100
+Finished at 2025-02-17 12:53:34 +0100
