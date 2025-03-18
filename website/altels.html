@@ -18,19 +18,13 @@
 </head>
 <body>
 
-    <form id="geotiff16_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/altels/v1/2025-03-16_s2.tif" method="get">
-        <button class="text-sansserif">Download 16-bit RGB Geotiff</button>
-    </form>
-    <form id="geotiff8_dl" style="display:inline" action="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/altels/v2/2025-03-16_s2_pan.tif" method="get">
-        <button class="text-sansserif">Download 8-bit grayscale Geotiff</button>
-    </form>
     <form id="back_to_homepage" style="display:inline" action="../index.html" method="get">
         <button class="text-sansserif">Go back to homepage</button>
     </form>
 
     
     <p></p>
-    <div id="img_title" class="text-sansserif"><b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;16 March 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b></div>
+    <div id="img_title" class="text-sansserif">altels</div>
     <div><i>Click image to toggle topographic map</i></div>
 
     <p>
@@ -39,17 +33,17 @@
     </p>
 
     <p>
-    <img src="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/altels/v3/2025-03-16_s2.jpg" alt="" style="width:700px;" onclick="toggle_topomap()">
+    <img src="https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/2025-03-16_s2/v3/altels.jpg" alt="" style="width:2025-03-16_s2;" onclick="toggle_topomap()">
     </p>
     
     <p class="text-sansserif">
-    <b>Go to:</b> <a href="adamello.html">Adamello (IT)</a>&nbsp;<b>·</b>&nbsp;<a href="aigtour.html">Aiguille du Tour (FR)</a>&nbsp;<b>·</b>&nbsp;<a href="aletsch.html">Aletsch (CH)</a>&nbsp;<b>·</b>&nbsp;<a><b>Altels (CH)</b></a>&nbsp;<b>·</b>&nbsp;<a href="bernina.html">Bernina (CH/IT)</a>&nbsp;<b>·</b>&nbsp;<a href="bishorn.html">Bishorn (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="bruennlital.html">Brünnlital (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="cengalo.html">Cengalo (IT/CH)</a>&nbsp;<b>·</b>&nbsp;<a href="cevedale.html">Cevedale (IT)</a>&nbsp;<b>·</b>&nbsp;<a href="disgrazia.html">Disgrazia (IT)</a>&nbsp;<b>·</b>&nbsp;<a href="fiescher.html">Fiescher (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="forni.html">Forni (IT)</a>&nbsp;<b>·</b>&nbsp;<a href="grandcombin.html">Grand Combin (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="grandesjorasses.html">Grandes Jorasses (FR/IT)</a>&nbsp;<b>·</b>&nbsp;<a href="granparadiso.html">Gran Paradiso (IT)</a>&nbsp;<b>·</b>&nbsp;<a href="gries.html">Gries (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="jungfrau.html">Jungfrau (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="lagginhorn.html">Lagginhorn (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="matterhorn.html">Matterhorn (CH/IT)</a>&nbsp;<b>·</b>&nbsp;<a href="montblanc.html">Mont Blanc (FR/IT)</a>&nbsp;<b>·</b>&nbsp;<a href="monterosa.html">Monte Rosa (CH/IT)</a>&nbsp;<b>·</b>&nbsp;<a href="monviso.html">Monviso (IT)</a>&nbsp;<b>·</b>&nbsp;<a href="murtel.html">Murtèl/Corvatsch (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="otemma.html">Otemma (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="pelmo.html">Pelmo (IT)</a>&nbsp;<b>·</b>&nbsp;<a href="plainemorte.html">Plaine Morte (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="rhone.html">Rhône (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="rocciamelone.html">Rocciamelone (IT)</a>&nbsp;<b>·</b>&nbsp;<a href="rutor.html">Rutor (IT)</a>&nbsp;<b>·</b>&nbsp;<a href="saasfee.html">Saas-Fee (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="schilthorn.html">Schilthorn (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="simplon.html">Simplon (CH/IT)</a>&nbsp;<b>·</b>&nbsp;<a href="tresignori.html">Tre Signori (IT)</a>&nbsp;<b>·</b>&nbsp;<a href="tsanfleuron.html">Tsanfleuron (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="unteraar.html">Unteraar (CH)</a>&nbsp;<b>·</b>&nbsp;<a href="valbondione.html">Valbondione (IT)</a>
+    <b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;16 March 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>
     </p>
 
     <script>
         var img_basedir = "https://raw.githubusercontent.com/MatteaE/livealps_img/main/imagery/altels"
-        var img_names = ["2025-02-17_s2.jpg", "2025-02-19_s2.jpg", "2025-02-22_ls.jpg", "2025-02-22_s2.jpg", "2025-02-24_s2.jpg", "2025-02-27_s2.jpg", "2025-03-01_s2.jpg", "2025-03-02_ls.jpg", "2025-03-04_s2.jpg", "2025-03-06_s2.jpg", "2025-03-09_s2.jpg", "2025-03-10_ls.jpg", "2025-03-11_s2.jpg", "2025-03-14_s2.jpg", "2025-03-16_s2.jpg"]
-        var img_titles = ["<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;17 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;19 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;22 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;22 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;24 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;27 February 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;01 March 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;02 March 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;04 March 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;06 March 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;09 March 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;10 March 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Landsat 8/9</b>", "<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;11 March 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;14 March 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>", "<b>Altels (CH)&nbsp;&nbsp;&mdash;&nbsp;&nbsp;16 March 2025&nbsp;&nbsp;&mdash;&nbsp;&nbsp;Sentinel-2</b>"]
+        var img_names = 2025-03-16_s2
+        var img_titles = 700px
     </script>
     <script src="script_generic.js"></script>
 	
