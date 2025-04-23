@@ -1,4 +1,4 @@
-Started at 2025-04-23 05:30:20 +0200
+Started at 2025-04-23 15:48:07 +0200
 Reading locations file...
 Processing Sentinel-2...
 8 tiles to examine...
@@ -12,52 +12,40 @@ Checking Sentinel-2 tile 7 of 8... No new scenes found. Moving on...
 Checking Sentinel-2 tile 8 of 8... No new scenes found. Moving on...
 Writing Sentinel-2 tile info file...
 Processing Landsat 8/9...
-Looking for Landsat scenes covering adamello... 10 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering aigtour... 12 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering aletsch... 24 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering altels... 24 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering bernina... 22 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering bishorn... 12 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering bruennlital... 24 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering cengalo... 11 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering cevedale... 20 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering disgrazia... 11 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering fiescher... 24 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering forni... 20 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering grandcombin... 12 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering grandesjorasses... 12 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering granparadiso... 23 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering gries... 24 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering jungfrau... 24 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering lagginhorn... 12 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering matterhorn... 12 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering montblanc... 12 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering monterosa... 12 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering monviso... 12 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering murtel... 22 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering otemma... 12 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering pelmo... 18 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering plainemorte... 24 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering rhone... 24 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering rocciamelone... 24 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering rutor... 23 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering saasfee... 12 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering schilthorn... 24 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering simplon... 12 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering tresignori... 11 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering tsanfleuron... 12 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering unteraar... 24 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering valbondione... 11 scene(s) found, including uninteresting ones... 2 excluding them.
-
-We have 1 unique scenes to download and process.
-
-Working on LC91920282025112LGN00 (1/1)...
-Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
-Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v3... v4... Done.
-Writing Landsat 8/9 tile info file...
-Removing 1 adamello image(s) older than 60 days...
-Removing 1 cevedale image(s) older than 60 days...
-Removing 1 forni image(s) older than 60 days...
-Removing 1 montblanc image(s) older than 60 days...
-Removing 1 pelmo image(s) older than 60 days...
-Finished at 2025-04-23 05:33:35 +0200
+Looking for Landsat scenes covering adamello... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering aigtour... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering aletsch... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering altels... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering bernina... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering bishorn... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering bruennlital... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering cengalo... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering cevedale... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering disgrazia... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering fiescher... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering forni... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering grandcombin... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering grandesjorasses... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering granparadiso... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering gries... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering jungfrau... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering lagginhorn... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering matterhorn... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering montblanc... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering monterosa... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering monviso... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering murtel... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering otemma... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering pelmo... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering plainemorte... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering rhone... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering rocciamelone... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering rutor... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering saasfee... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering schilthorn... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering simplon... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering tresignori... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering tsanfleuron... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering unteraar... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Looking for Landsat scenes covering valbondione... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
+Finished at 2025-04-23 15:49:19 +0200
