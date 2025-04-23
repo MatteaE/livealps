@@ -1,4 +1,4 @@
-Started at 2025-04-23 15:48:07 +0200
+Started at 2025-04-23 17:30:21 +0200
 Reading locations file...
 Processing Sentinel-2...
 8 tiles to examine...
@@ -48,4 +48,4 @@ Looking for Landsat scenes covering tresignori... Landsat search WARNING: unexpe
 Looking for Landsat scenes covering tsanfleuron... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
 Looking for Landsat scenes covering unteraar... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
 Looking for Landsat scenes covering valbondione... Landsat search WARNING: unexpected status code  503 -- giving up on this search for now.None found over the period.
-Finished at 2025-04-23 15:49:19 +0200
+Finished at 2025-04-23 17:31:35 +0200
