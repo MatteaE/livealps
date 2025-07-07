@@ -1,4 +1,4 @@
-Started at 2025-07-07 17:15:14 +0200
+Started at 2025-07-07 17:30:21 +0200
 Reading locations file...
 Processing Sentinel-2...
 9 tiles to examine...
@@ -72,8 +72,18 @@ Looking for Landsat scenes covering wildhorn... 16 scene(s) found, including uni
 We have 1 unique scenes to download and process.
 
 Working on LC91960282025188LGN00 (1/1)...
-WARNING: individual band files are not yet available for this scene. Giving up DDS download for now...
-WARNING: download failed. Cleaning up and giving up for now...
-Giving up on the whole scene for this time...
+Downloading 4 immediately available bands: 1 -- 2 -- 3 -- 4 -- Download completed.
+Location and scene EPSG do not match. I am reprojecting the location EPSG.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v3... v4... Done.
+Location and scene EPSG do not match. I am reprojecting the location EPSG.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v3... v4... Done.
+Location and scene EPSG do not match. I am reprojecting the location EPSG.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v3... v4... Done.
+Location and scene EPSG do not match. I am reprojecting the location EPSG.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v3... v4... Done.
+Location and scene EPSG do not match. I am reprojecting the location EPSG.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v3... v4... Done.
+Location and scene EPSG do not match. I am reprojecting the location EPSG.
+Checking for data... Yes! Processing... Cropped... v1... Pansharpened... v3... v4... Done.
 Writing Landsat 8/9 tile info file...
-Finished at 2025-07-07 17:16:28 +0200
+Finished at 2025-07-07 17:34:24 +0200
