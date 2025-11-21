@@ -1,4 +1,4 @@
-Started at 2025-11-21 05:30:21 +0100
+Started at 2025-11-21 11:51:34 +0100
 Reading locations file...
 Processing Sentinel-2...
 9 tiles to examine...
@@ -68,4 +68,4 @@ Looking for Landsat scenes covering tsanfleuron... 10 scene(s) found, including 
 Looking for Landsat scenes covering unteraar... 20 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering valbondione... 10 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering wildhorn... 10 scene(s) found, including uninteresting ones... 0 excluding them.
-Finished at 2025-11-21 05:34:25 +0100
+Finished at 2025-11-21 11:56:15 +0100
