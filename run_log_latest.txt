@@ -1,4 +1,4 @@
-Started at 2026-07-14 05:30:20 +0200
+Started at 2026-07-14 11:13:16 +0200
 Reading locations file...
 Processing Sentinel-2...
 9 tiles to examine...
@@ -35,8 +35,8 @@ Looking for Landsat scenes covering forni... 18 scene(s) found, including uninte
 Looking for Landsat scenes covering grandcombin... 12 scene(s) found, including uninteresting ones... 1 excluding them.
 Looking for Landsat scenes covering grandesjorasses... 13 scene(s) found, including uninteresting ones... 1 excluding them.
 Looking for Landsat scenes covering grandmuveran... 13 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering granparadiso... 22 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering grandesassiere... 23 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering granparadiso... 23 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering grandesassiere... 24 scene(s) found, including uninteresting ones... 1 excluding them.
 Looking for Landsat scenes covering gredetschtal... 12 scene(s) found, including uninteresting ones... 2 excluding them.
 Looking for Landsat scenes covering gries... 22 scene(s) found, including uninteresting ones... 2 excluding them.
 Looking for Landsat scenes covering grigne... 11 scene(s) found, including uninteresting ones... 2 excluding them.
@@ -50,14 +50,14 @@ Looking for Landsat scenes covering loetschental... 22 scene(s) found, including
 Looking for Landsat scenes covering matterhorn... 12 scene(s) found, including uninteresting ones... 1 excluding them.
 Looking for Landsat scenes covering montblanc... 13 scene(s) found, including uninteresting ones... 2 excluding them.
 Looking for Landsat scenes covering monterosa... 12 scene(s) found, including uninteresting ones... 2 excluding them.
-Looking for Landsat scenes covering monviso... 11 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering monviso... 12 scene(s) found, including uninteresting ones... 1 excluding them.
 Looking for Landsat scenes covering murtel... 20 scene(s) found, including uninteresting ones... 2 excluding them.
 Looking for Landsat scenes covering pelmo... 16 scene(s) found, including uninteresting ones... 0 excluding them.
 Looking for Landsat scenes covering plainemorte... 22 scene(s) found, including uninteresting ones... 1 excluding them.
 Looking for Landsat scenes covering reeti... 24 scene(s) found, including uninteresting ones... 2 excluding them.
 Looking for Landsat scenes covering rhone... 24 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering rocciamelone... 22 scene(s) found, including uninteresting ones... 1 excluding them.
-Looking for Landsat scenes covering rutor... 23 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering rocciamelone... 23 scene(s) found, including uninteresting ones... 1 excluding them.
+Looking for Landsat scenes covering rutor... 24 scene(s) found, including uninteresting ones... 1 excluding them.
 Looking for Landsat scenes covering saasfee... 12 scene(s) found, including uninteresting ones... 2 excluding them.
 Looking for Landsat scenes covering salanfe... 13 scene(s) found, including uninteresting ones... 2 excluding them.
 Looking for Landsat scenes covering schilthorn... 24 scene(s) found, including uninteresting ones... 1 excluding them.
@@ -96,4 +96,4 @@ WARNING: preferred download method (secondary downloads of DDS of Product Bundle
 WARNING: download failed. Cleaning up and giving up for now...
 Giving up on the whole scene for this time...
 Writing Landsat 8/9 tile info file...
-Finished at 2026-07-14 05:31:39 +0200
+Finished at 2026-07-14 11:14:39 +0200
